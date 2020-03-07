@@ -1,0 +1,19 @@
+{
+    "source": [
+      "aws.securityhub"
+    ],
+    "detail-type": [
+      "Security Hub Findings - Imported"
+    ],
+    "detail": {
+      "findings": {
+        "ProductFields":{
+          "aws/securityhub/SeverityLabel": [
+            "CRITICAL",
+            "HIGH",
+            "MEDIUM"
+          ]
+        }
+      }
+    }
+  }
